@@ -1,6 +1,2 @@
 # hello-world
-Initial repository
-
-Initial file for repository
-
-
+change of text to something more meaningful
